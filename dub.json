@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"kotet"
+	],
+	"copyright": "Copyright © 2019, kotet",
+	"description": "D implementation of Richard Dawkin's weasel program.",
+	"license": "MIT",
+	"name": "weasel-program"
+}

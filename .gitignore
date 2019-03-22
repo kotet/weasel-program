@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+weasel-program
+/weasel-program
+weasel-program.so
+weasel-program.dylib
+weasel-program.dll
+weasel-program.a
+weasel-program.lib
+weasel-program-test-*
+*.exe
+*.o
+*.obj
+*.lst
